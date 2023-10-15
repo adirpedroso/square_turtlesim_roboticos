@@ -1,2 +1,2 @@
-# square_turtlesim_roboticos
-Repositório destinado a atividades de sistemas robóticos
+# turtle_roboticos
+Repositório destinado a atividades dda cadeira de sistemas robóticos
